@@ -13,6 +13,11 @@ Seng Chan You is a medical doctor who majored in internal medicine from Severanc
 
 ## Members
 
+![resized_jc](https://user-images.githubusercontent.com/26479424/153783628-ee0a3810-789b-4a72-930d-0286c5409ed3.png)
+#### Jaehyeong Cho, PhD
+Major: Medical informatics, Statistics
+Interests: Common Data Model, (Spatio-temporal)Epidemiology, Medical Statistics, Machine Learning
+
 ![jay](https://user-images.githubusercontent.com/92774958/137850326-820d4eae-8148-4a67-9a4b-559b7e5c68b2.png)
 #### Jaehyun Shin, MFA  
 Major: Visual Communication Design  
